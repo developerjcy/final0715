@@ -49,15 +49,23 @@
 통합관리 :
 
 -팀원들이 작성한 코드들을 하나로 합치고 그에 대한 에러코드 및 오류를 검출해 수정함. 
+
 -팀원들의 작업 현황을 매일 조사하고 현황에 따라 스케줄이나 사양을 변경함.
+
 -모든 프로젝트 관련 데이터베이스와 서류를 보관하고 관리함.
 
 개발도구
 
 ∙ 개발산출문서 – eXERD, Excel
+
 ∙ DB설계 - Oracle SQL Developer
+
 ∙ IDE 도구 - Eclipse
+
 ∙ 웹 서버 - Apache Tomcat 9.0
+
 ∙ 언어 - JAVA / JavaScript / HTML
+
 ∙ 주요 라이브러리 - jQuery / JSON / MyBatis 
+
 ∙ 프레임워크 - Spring
